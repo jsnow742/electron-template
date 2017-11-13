@@ -1,6 +1,7 @@
 {
-    "name": "your-app",
-    "version": "0",
+    "name": "electron-template",
+    "version": "1.0.0",
+    "description": "my own personal electron package template",
     "main": "main.js",
     "devDependencies": {
         "electron": "1.7.9"
